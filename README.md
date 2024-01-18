@@ -3,7 +3,7 @@
 2. cd `/greetings`
 3. Run:
 ```sh
-go mod init github.com/naftalimurgor.com/greetings # should match github repo for the package
+go mod init github.com/greetings # should match github repo for the package
 ```
 4. Add package code and push
 
