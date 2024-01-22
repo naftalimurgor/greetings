@@ -1,3 +1,3 @@
-module github.com/naftalimurgor/greetings                                                                                                                greetings
+module github.com/naftalimurgor/greetings
 
 go 1.21.5
