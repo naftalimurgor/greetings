@@ -20,3 +20,11 @@ func main() {
   fmt.Println(msg)
 }
 ```
+
+## Setup with Git- has to have a package version and or release
+```sh
+git tag --version
+git push origin v0.1.0 # can be any version number, see https://go.dev/blog/publishing-go-modules
+```
+
+That's how you publish go modules for reuse on other projects!
